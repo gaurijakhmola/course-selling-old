@@ -1,4 +1,4 @@
-import { Box, Button, Card, CircularProgress, Typography } from "@mui/material";
+import { Box, Card, CircularProgress, Typography } from "@mui/material";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
@@ -140,7 +140,6 @@ function Courses() {
           ) : (
             <div>
               <button
-                variant="contained"
                 style={{
                   backgroundColor: "green",
                   padding: "10px 20px",
@@ -154,7 +153,6 @@ function Courses() {
                 Purchased
               </button>
               <button
-                variant="contained"
                 style={{
                   backgroundColor: "#1E267A",
                   padding: "10px 20px",

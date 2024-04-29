@@ -1,5 +1,4 @@
 import {
-  Button,
   TextField,
   Card,
   Typography,
@@ -113,7 +112,7 @@ function RegisterPage() {
           ) : (
             <button
               className="button-nav"
-              variant="contained"
+              
               disabled={loading} // Disable button during loading
               onClick={handleSignUp}
             >

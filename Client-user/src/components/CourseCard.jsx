@@ -107,6 +107,7 @@ CourseCard.propTypes = {
     imageLink: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
     description: PropTypes.string.isRequired,
+    price: PropTypes.number.isRequired,
   }).isRequired,
 };
 
