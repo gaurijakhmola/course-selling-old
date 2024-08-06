@@ -91,13 +91,11 @@ function LandingPage() {
               visible: { opacity: 1, x: 0 },
             }}
           >
-            <img
-              className="landingpic"
-              src={
-                "https://cdn.discordapp.com/attachments/1115879532193386527/1178616165648576543/A_importancia_do_SEO_para_o_sucesso_do_seu_negocio_online.jpeg?ex=6576cad7&is=656455d7&hm=d8b59d2bfaa25ad066ada62a67e504596daa59acca83120b467fd36d142ebdc1&"
-              }
-              width={"75%"}
-            />
+            <img 
+           className="landingpic"
+           src="https://i.ibb.co/3R4Z494/course-Hubuser.png" 
+            width={"75%"}
+          />
           </motion.div>
         </Grid>
       </Grid>
