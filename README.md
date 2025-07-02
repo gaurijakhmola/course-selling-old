@@ -30,9 +30,7 @@ Note: The payment system and course content uploading features are currently und
 6. MUI
 7. Vite.js
 
-## Quick Start
 
-To set up a local copy of CourseHub, follow these simple steps:
 
 ## Prerequisites
 
