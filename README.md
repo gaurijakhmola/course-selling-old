@@ -50,7 +50,7 @@ Ensure that Node.js and npm are installed on your machine.
 
 1. Change directory to the root of the cloned repository
    ```sh
-   cd CourseHub
+   cd root/CourseHub
    ```
 2. Change directory to the server folder
    ```sh
