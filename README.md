@@ -1,37 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Madhu-mac/Course_Hub/blob/main/Client-user/src/assets/CourseHub.png" alt="CourseHub" width="100%">
-</div>
- 
-<div align="center">
-  <h2>Course selling app</h2>
-</div>
-
-A comprehensive course-selling website with robust features, built on the MERN stack (Node.js, Express.js, MongoDB, and React).
-
-Explore the live application: 🚀✨
-- Admin Panel :-  https://coursehub-admin.netlify.app/
-  
-
-https://github.com/Madhu-mac/Course_Hub/assets/99901964/7b26febd-de7d-4a68-9017-6a2902088478
-
-
-- User Panel :-  https://coursehub-user.netlify.app/
-  
-
-https://github.com/Madhu-mac/Course_Hub/assets/99901964/a6270f05-deae-4d58-b9a8-a550fad1a7b4
-
-- CourseHub Backend :- https://coursehub-7s37.onrender.com
-
-# Table of Contents
-
-1. [Admin Panel](#admin-panel)
-2. [User Panel](#user-panel)
-3. [Demo video](#demo-video)
-4. [Developed using](#developed-using)
-5. [Quick Start](#quick-start)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 
 ## Admin Panel
 
@@ -51,7 +17,7 @@ https://github.com/Madhu-mac/Course_Hub/assets/99901964/a6270f05-deae-4d58-b9a8-
 
 Note: The payment system and course content uploading features are currently under development.
 
-## Demo video
+
 
 
 ## Developed Using
