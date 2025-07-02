@@ -25,7 +25,7 @@ function Landing() {
               }}
             >
               <Typography variant={"h4"} style={{ color: "white"}} >
-                CourseHub Admin
+                LearnNest Admin
               </Typography>
             </motion.div>
             <motion.div

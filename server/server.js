@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const express = require("express");
 const cors = require("cors");
 const adminRouter = require("./routes/admin");
@@ -15,4 +17,6 @@ app.get("/", (req, res) => {
 app.use("/admin", adminRouter);
 app.use("/users", userRouter);
 
-app.listen(3000, () => console.log("Server running on port 3000"));
+const PORT = process.env.PORT || 3001;
+
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

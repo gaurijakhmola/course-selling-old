@@ -25,7 +25,7 @@ function LandingPage() {
               }}
             >
               <Typography variant={"h4"} style={{ color: "white" }}>
-                CourseHub User
+                LearnNest User
               </Typography>
             </motion.div>
             <motion.div

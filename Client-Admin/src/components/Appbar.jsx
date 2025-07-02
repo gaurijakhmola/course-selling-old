@@ -52,7 +52,7 @@ function Appbar() {
             }}
             variant={"h6"}
           >
-            CourseHub
+            LearnNest
           </Typography>
         </div>
         <div style={{ display: "flex" }}>
